@@ -347,3 +347,29 @@ main {
     margin-bottom: 20px;
   }
 }
+.sponsor-note {
+  margin: 40px auto;
+  padding: 24px;
+  max-width: 1000px;
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 16px;
+  background: rgba(10,10,10,0.55);
+  text-align: center;
+}
+
+.cloudns-logo {
+  display: block;
+  margin: 0 auto 18px auto;
+  max-width: 320px;
+  width: 100%;
+  height: auto;
+}
+
+.sponsor-note h2 {
+  margin-bottom: 12px;
+}
+
+.sponsor-note p {
+  line-height: 1.6;
+  opacity: 0.95;
+}
